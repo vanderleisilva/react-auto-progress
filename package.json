@@ -1,7 +1,7 @@
 {
   "name": "react-auto-progress",
-  "version": "1.0.0",
-  "description": "react-auto-progress React component",
+  "version": "1.0.1",
+  "description": "A zero configuration progress loading bar component for react",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
