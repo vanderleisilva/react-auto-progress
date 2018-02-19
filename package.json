@@ -18,6 +18,10 @@
     "test:coverage": "nwb test-react --coverage",
     "test:watch": "nwb test-react --server"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderleisilva/react-auto-progress.git"
+  },
   "dependencies": {
     "axios": "^0.17.1",
     "nprogress": "^0.2.0"
